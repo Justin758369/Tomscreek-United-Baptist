@@ -1,13 +1,29 @@
-h1 {color: #04f117;}
+h1 { 
+    color: #05fa05;
+    font-size: 48px;
+    text-align: center;
+    margin-top: 50px;
+}
 body {
-    background-color: #000000;
+    background-color: #0a0a0a;
     font-family: Arial, sans-serif;
 } 
-ul{
-    color: #ffffff;
+ul{ color: #08f31b;
     font-size: 16px;
+    text-align: center;
 }
-<audio controls>
-    <source src="audio/31736081-amazing-grace-269877.mp3" type="audio/mpeg">
-    Your browser does not support the audio element.
-</audio>
+li {font-size: 36px; color: #08f31b;
+    margin-bottom: 10px;
+    text-align: center;
+} 
+a {font-size: xx-large;
+    color: #04f117;
+    text-decoration: none;
+    text-align: center;
+}
+img {
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+    height: auto;
+}   
